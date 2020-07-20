@@ -2,6 +2,6 @@ mkdir -p ~/.streamlit/
 
 echo "[server]
 headless = true
-port = $PORT
+port = 6000
 enableCORS = false
 " > ~/.streamlit/config.toml
